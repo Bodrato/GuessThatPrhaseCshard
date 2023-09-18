@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXvBg+W+1ru4GAH6t3yrx6P/m7twFGyFE14loNU6H6RNXOPvBAW/LZM48PPgUbVn/8pp09qiG7IW4f6G9fnFFw==",
+  "success": true,
+  "projectFilePath": "G:\\My Drive\\1 DAM\\Programación\\Tercer trimestre\\Proyecto Guess that Prhase\\Guess that Prhase\\Guess that Prhase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

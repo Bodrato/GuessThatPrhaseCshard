@@ -1,0 +1,50 @@
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.exe
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.deps.json
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.runtimeconfig.json
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.pdb
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.csproj.AssemblyReference.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.AssemblyInfoInputs.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.AssemblyInfo.cs
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.csproj.CoreCompileInputs.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\refint\Guess that Prhase.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.pdb
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.genruntimeconfig.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\ref\Guess that Prhase.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\bin\Debug\net6.0-windows\MySqlConnector.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.csproj.CopyComplete
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.csproj.GenerateResource.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmEstadisticas.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmIniciarSesion.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmMenu.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmRegistrarUsuario.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmJuego.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Ejercicios\Ejercicios tema 9\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.Properties.Resources.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.exe
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.deps.json
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.runtimeconfig.json
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\bin\Debug\net6.0-windows\Guess that Prhase.pdb
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\bin\Debug\net6.0-windows\MySqlConnector.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.csproj.AssemblyReference.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.Properties.Resources.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmEstadisticas.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmIniciarSesion.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmJuego.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmMenu.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess_that_Prhase.view.FrmRegistrarUsuario.resources
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.csproj.GenerateResource.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.AssemblyInfoInputs.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.AssemblyInfo.cs
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.csproj.CoreCompileInputs.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.csproj.CopyComplete
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\refint\Guess that Prhase.dll
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.pdb
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\Guess that Prhase.genruntimeconfig.cache
+G:\My Drive\1 DAM\Programación\Tercer trimestre\Proyecto Guess that Prhase\Guess that Prhase\obj\Debug\net6.0-windows\ref\Guess that Prhase.dll
